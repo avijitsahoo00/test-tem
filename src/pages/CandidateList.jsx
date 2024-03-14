@@ -41,7 +41,7 @@ export default function CandidateList() {
                 cache: "force-cache",
                 method: "POST",
                 body: JSON.stringify({job_id, candidates})
-            }).then((d)=> d.json() );
+            }).then((d)=> d.json() ).catch(() => setCandidatesData([]));
             console.log(mainData.response.response);
             setCandidatesData(resdata);
             return resdata
