@@ -1,0 +1,185 @@
+{
+  "response": {
+      "response": [
+          {
+              "_id": "65f1f49ee8af1464b93c4186",
+              "achievements": [
+                  "Selected as Google Developer Student Clubs Lead 2023 - 2024. July, 2023",
+                  "Featured on Qwiklabs Hall of Fame. October, 2022",
+                  "Lead a team at Smart India Hackathon (Internal) and finished top 10. March, 2022"
+              ],
+              "candidate_id": "be41c6e9-d47e-489b-959d-5ccbf3dfb2a4",
+              "certifications": [
+                  "EF Standard English Test Certificate - scored 74/100 highest proficiency (July 2023)",
+                  "Introduction to Front-End Development - Coursera (April 2023)",
+                  "Google Cloud Career Practitioner 2022 - GDSC SIT (January 2023)"
+              ],
+              "education": [
+                  {
+                      "degree": "Bachelor of Technology - Computer Science and Engineering",
+                      "graduation_score": "GPA: 8.9 (till 6th sem)",
+                      "institution": "Future Institute of Engineering and Management, Kolkata"
+                  },
+                  {
+                      "degree": "CBSE (12th std) - Computer Science",
+                      "graduation_score": "Percentage: 72.8%",
+                      "institution": "Future Campus School, Kolkata"
+                  }
+              ],
+              "employee_loyalty_score": 0.3,
+              "experience_score": 0.5,
+              "hobbies": [
+                  "Beatboxing",
+                  "Workout",
+                  "Bike Riding"
+              ],
+              "personal_information": {
+                  "contact_number": "+91 6290861706",
+                  "email": "sanglapmridha@gmail.com",
+                  "github": "github.com/sanglap13",
+                  "linkedin": "linkedin.com/in/sanglapmridha",
+                  "location": "Kolkata, India",
+                  "name": "SANGLAP MRIDHA"
+              },
+              "professional_experience": [
+                  {
+                      "company": "Aeonix Research and Innovations",
+                      "company_url": "",
+                      "duration": "August 2023 - Present",
+                      "position": "Web Developer Intern (Front-End)",
+                      "responsibilities": [
+                          "Working on the main product of the company catering the Health Insurance market of the USA using MERN stack.",
+                          "Built and integrated a real-time, responsive dashboard from scratch using React, Material UI, ChartJS (including Pie-Charts, Area-Charts etc.) which led to enhancement of business by more than 70%.",
+                          "Solved multiple UI bugs and issues and enhanced the performance of the web app.",
+                          "Made a marketing website from scratch using React and integrated Google Analytics with it.",
+                          "Actively participated in collaborative team discussions, code reviews and problem solving.",
+                          "Helped new joinees understand the code convention and practices and helped them whenever they need."
+                      ]
+                  }
+              ],
+              "projects": [
+                  {
+                      "description": "A random Pokemon card generator website built using HTML, CSS. The data of the pokemons are fetched from an API using Express Js as the backend.",
+                      "name": "Pokemon Card Generator",
+                      "url": ""
+                  },
+                  {
+                      "description": "A full stack social media web application with a Login/Register page. It has a responsive ui and modes (Dark/Light) can be changed. Technologies used - MongoDB, Expressjs, Reactjs, Nodejs, Redux, Material UI. The site is hosted using Firebase hosting.",
+                      "name": "onlyFrnds",
+                      "url": ""
+                  }
+              ],
+              "relevant_skill_compatibility": 0.75,
+              "skills": [
+                  "C++",
+                  "Javascript",
+                  "Typescript",
+                  "SQL",
+                  "HTML",
+                  "CSS",
+                  "ReactJS",
+                  "Material UI",
+                  "Bootstrap",
+                  "MySQL",
+                  "MongoDB",
+                  "Git",
+                  "Github",
+                  "AWS",
+                  "GCP",
+                  "Firebase",
+                  "UI/UX Design",
+                  "Graphics Design",
+                  "Video Editing",
+                  "Photoshop",
+                  "Figma"
+              ],
+              "summary": ""
+          },
+          {
+              "_id": "65f1f489e8af1464b93c4185",
+              "achievements": [],
+              "candidate_id": "7238aa67-a959-4877-82ba-d5889ec772ab",
+              "certifications": [
+                  "Web Development (Internshala)"
+              ],
+              "education": [
+                  {
+                      "degree": "BCA (Bachelor of Computer Application)",
+                      "graduation_score": "",
+                      "institution": "Vivekananda Mahavidyalaya, Haripal"
+                  },
+                  {
+                      "degree": "Full-Stack Web Development",
+                      "graduation_score": "",
+                      "institution": "Masai School, Bangalore"
+                  }
+              ],
+              "employee_loyalty_score": 0.3,
+              "experience_score": 0.0,
+              "hobbies": [
+                  "Music",
+                  "Drawing",
+                  "Gaming"
+              ],
+              "personal_information": {
+                  "contact_number": "+91 8509321655",
+                  "email": "rubyroy722@gmail.com",
+                  "github": "github.com/rubyroy21",
+                  "linkedin": "",
+                  "location": "Tarakeswar, West Bengal",
+                  "name": "Ruby Roy"
+              },
+              "professional_experience": [
+                  {
+                      "company": "Carveniche Technologies Private Limited",
+                      "company_url": "",
+                      "duration": "July 2022 - September 2022",
+                      "position": "Associate Software Developer (Full Stack Developer)",
+                      "responsibilities": [
+                          "Handled the full back-end part and front-end part.",
+                          "Fetched data by using DOM.",
+                          "Integrated all the pages together."
+                      ]
+                  },
+                  {
+                      "company": "Tectes Technologies Private Limited",
+                      "company_url": "",
+                      "duration": "November 2022 - November 2023",
+                      "position": "Associate Software Developer (Front-end Developer)",
+                      "responsibilities": [
+                          "Integrated with API of login, signup, and getting OTP on mail.",
+                          "Developed CRUD operation for storing all the data as well as manipulating them.",
+                          "Created a custom app in MS Teams by using VS code (React with Fluent.UI and Typescript) which shows the attendance tracker where you can clock in and clock out and save the data."
+                      ]
+                  }
+              ],
+              "projects": [
+                  {
+                      "description": "An e-commerce website with a catalog of modern lifestyle clothing for men, women, and kids.",
+                      "name": "J.Crew Clone",
+                      "url": ""
+                  },
+                  {
+                      "description": "Category Filtration and Products Sorting. Pagination of courses. Functionalized the search bar for searching any course.",
+                      "name": "Educative Clone",
+                      "url": ""
+                  }
+              ],
+              "relevant_skill_compatibility": 0.5,
+              "skills": [
+                  "HTML",
+                  "CSS",
+                  "Javascript",
+                  "React.js",
+                  "Bootstrap",
+                  "Material UI",
+                  "MongoDB",
+                  "Express",
+                  "Node",
+                  "Typescript"
+              ],
+              "summary": "Contrivance designer and aspiring full-stack web developer with expertise in Javascript and React.js. Self-disciplined and blazing with curiosity, with a keen interest in innovation of the Tech World. Eagerly anticipating to show my skills in an inspiring work domain."
+          }
+      ]
+  }
+}
